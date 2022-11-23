@@ -5,7 +5,7 @@ Helped a Brazilian E-commerce store to understand how their sales trend across d
 
 ## Process
 
-For this analysis, they given the data for the time period 2016-2018.
+They provide the data for the time period 2016-2018.
 
 For the analysis I created different metrics like sales, customer acquisition, total no. of orders for each year across the different states they serve. Using these metrics I identified the top 2 states which show: 
 
